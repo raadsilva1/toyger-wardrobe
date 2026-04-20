@@ -1,0 +1,19 @@
+{
+  "applications": [
+    {
+      "name": "XClock",
+      "argv": ["/usr/X11R6/bin/xclock"],
+      "icon": "information"
+    },
+    {
+      "name": "XCalc",
+      "argv": ["/usr/X11R6/bin/xcalc"],
+      "icon": "working"
+    },
+    {
+      "name": "XTerm",
+      "argv": ["/usr/X11R6/bin/xterm"],
+      "icon": "question"
+    }
+  ]
+}
